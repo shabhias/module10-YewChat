@@ -6,7 +6,9 @@
 
 - <a href="https://ibb.co/gyyKdYv"><img src="https://i.ibb.co/nrrJBp3/Screenshot-2024-05-06-211750.png" alt="Screenshot-2024-05-06-211750" border="0"></a
 
+## 3.2
 
+<a href="https://ibb.co/crHkDKn"><img src="https://i.ibb.co/hmjLDxz/Screenshot-2024-05-07-085401.png" alt="Screenshot-2024-05-07-085401" border="0"></a>
 
 # YewChat 💬
 
