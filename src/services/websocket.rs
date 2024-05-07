@@ -5,7 +5,6 @@ use wasm_bindgen_futures::spawn_local;
 use yew_agent::Dispatched;
 
 use crate::services::event_bus::{EventBus, Request};
-
 pub struct WebsocketService {
     pub tx: Sender<String>,
 }

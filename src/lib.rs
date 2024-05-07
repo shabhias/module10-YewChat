@@ -1,5 +1,8 @@
 #![recursion_limit = "512"]
 
+mod components;
+mod services;
+
 use std::cell::RefCell;
 use std::rc::Rc;
 
@@ -8,8 +11,7 @@ use yew::functional::*;
 use yew::prelude::*;
 use yew_router::prelude::*;
 
-mod components;
-mod services;
+
 use components::login::Login;
 use components::chat::Chat;
 
